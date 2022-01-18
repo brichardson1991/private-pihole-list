@@ -29,5 +29,7 @@ ff02::3 ip6-allhosts
 # Custom host records are listed here.
 192.168.31.28 *.home.richardson1991.uk
 192.168.31.28 home.richardson1991.uk
+192.168.31.28 portainer.home.richardson1991.uk
+192.168.31.28 traefik.home.richardson1991.uk
 
 # End of custom host records.
